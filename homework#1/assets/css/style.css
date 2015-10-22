@@ -1,0 +1,49 @@
+html {
+    background-color: #EEEEEE;
+}
+body {
+    /* background: url("../img/homework1.png") top center no-repeat; */
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    padding: 5px;
+}
+.container {
+    background-color: #FFFFFF;
+    /* opacity: 0.3; */
+    width: 410px;
+    margin: 0 auto;
+    padding: 50px 50px 45px;
+    -webkit-box-shadow: 0 0 5px #D5D5D5;
+    -moz-box-shadow: 0 0 5px #D5D5D5;
+    box-shadow: 0 0 5px #D5D5D5;
+}
+.block {
+    border-top: 1px solid #7A7A7A;
+    padding: 30px 15px 15px;
+}
+h2 {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+img {
+    width: 120px;
+    margin: 15px auto;
+    display: block;
+}
+p {
+    margin-bottom: 5px;
+}
+p.pdouble {
+	margin-bottom: 20px;
+}
+p.position {
+    margin: 0 0 15px 10px;
+}
+ul {
+    margin: 0 10px;
+}
+li {
+    list-style: disc inside;
+    margin: 0 0 10px;
+}
